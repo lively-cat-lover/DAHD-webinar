@@ -7,7 +7,7 @@ layout: default
 {% for post in site.posts %}
 <div class="card">
     <h5>Title: {{post.title}}</h5>
-    <p>Speaker: {{post.speaker}}</p>
+    <p>Speaker: [{{post.speaker}}]({{post.speaker-page}})</p>
     <p>Time: {{post.date |date: "%e %B, %Y %H:%M %Z"}}</p>
     <a data-toggle="collapse" href="#post{{forloop.index}}"><p>More Info...</p></a>
     <div class="collapse" id="post{{forloop.index}}">

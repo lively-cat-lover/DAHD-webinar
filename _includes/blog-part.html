@@ -6,7 +6,7 @@
         <div class="col-md-12 col-sm-12">
             <div class="card bg-dark">
                 <h3>Title: {{post.title}}</h3>
-                <p>Speaker: {{post.speaker}}</p>
+                <p>Speaker: [{{post.speaker}}]({{post.speaker-page}})</p>
                 <p>Date: {{post.date | date: "%e %B, %Y %H:%M %Z" }}</p>
                 <p>{{ post.content | truncatewords: 150 }} <a href="{{site.baseurl}}{{post.url}}">Full Information</a></p>
             </div>

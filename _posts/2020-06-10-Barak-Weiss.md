@@ -2,6 +2,7 @@
 layout: post
 title: New bounds on the covering density of a lattice
 speaker: Barak Weiss
+speaker-page: http://www.math.tau.ac.il/~barakw/
 date: 2020-06-10 12:30:00 +0000
 categories: Diophantine approximation
 ---

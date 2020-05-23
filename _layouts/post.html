@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<a href="{{site.baseurl}}/full-post-list-page/">博文列表</a>
+<a href="{{site.baseurl}}/full-post-list-page/">All Talks</a>
 <hr>
 
 <div class="container">
-        <h4>{{page.title}}</h4>
+        <h4>Speaker: {{page.speaker}}</h4>
+        <h4>Title: {{page.title}}</h4>
         <p>{{page.date | date: "%B %d, %Y"}}</p>
         {{content}}
 </div>

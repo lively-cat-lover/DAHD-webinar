@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 另一天
+title: TBD
+speaker: TBD
 date: 2018-06-10 13:00:00 +0800
-categories: updates jekyll
+categories: Diophantine approximation
 ---
 
-这是另一天，大家好，没想到吧。
+Abstract: TBD.

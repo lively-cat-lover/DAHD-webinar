@@ -6,7 +6,6 @@ layout: page
 permalink: /
 ---
 
-
 This online seminar is devoted to recent progress in Diophantine approximation, homogeneous dynamics and related topics. Every lecture will consist of two parts: the first part for a general introduction and the second part for explaining proofs in detail. 
 
 Talks will be given on zoom. Please send an email to one of the organizers to get the access.

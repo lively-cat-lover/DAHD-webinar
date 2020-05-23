@@ -5,29 +5,8 @@
 layout: page
 permalink: /
 ---
-## 大家好，欢迎来到喵哥的主页。
+This online seminar is devoted to recent progress in Diophantine approximation, homogeneous dynamics and related topics. Every lecture will consist of two parts: the first part for a general introduction and the second part for explaining proofs in detail. 
 
-1. *数学分析*
-2. **高等代数**
-3. ~~解析几何~~
+Talks will be given on zoom. Please send an email to one of the organizers to get the access.
 
-[百度](https://www.baidu.com)
-
-[知乎][1]
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-一个公式： $\frac{a+b}{c+d}$
-
-$$a^2+b^2=c^2$$
-
-
-
-
-
-
-[1]: http://www.zhihu.com
+Organizers: [Victor Beresnevich](mailto:victor.beresnevich@york.ac.uk), [Erez Nesharim](mailto:ereznesh@gmail.com), [Lei Yang](mailto:lyang861028@gmail.com)

@@ -2,7 +2,7 @@
 layout: post
 title: Random walks, spectral gaps, and Khinthine's theorem on fractals
 speaker: Osama Khalil
-speaker-page: 
+speaker-page: http://www.math.utah.edu/~khalil/
 date: 2020-06-03 14:00:00 +0000
 categories: Diophantine approximation
 ---

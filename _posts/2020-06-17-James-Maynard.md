@@ -6,4 +6,6 @@ date: 2020-06-17 13:30:00 +0000
 categories: Diophantine approximation
 ---
 
-Abstract. TBD
+Note: Time of this talk has not been fixed.
+
+Abstract: TBA

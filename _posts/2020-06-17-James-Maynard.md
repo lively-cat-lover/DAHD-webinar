@@ -1,11 +1,10 @@
 ---
 layout: post
-title: On Duffin-Schaeffer conjecture
+title: On the Duffin-Schaeffer Conjecture
 speaker: James Maynard
-date: 2020-06-17 13:30:00 +0000
+date: 2020-06-17 13:00:00 +0000
 categories: Diophantine approximation
 ---
 
-Note: Time of this talk has not been fixed.
-
-Abstract: TBA
+Abstract: Almost 80 years ago Duffin and Schaeffer conjectured a beautiful strengthening of Khinchin's classical result: Given a sequence of possible forms of rational approximation, either almost all reals can be approximated in this manner or almost none can be, and there is a simple calculation to tell which case we are in.
+I'll talk about recent work with D. Koukoulopoulos which establishes this conjecture. This relies on a blend of different techniques, recasting the problem as a structural question in additive combinatorics, and then approaching this via studying a particular family of graphs to reduce it to a problem in analytic number theory.

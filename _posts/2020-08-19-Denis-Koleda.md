@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The distribution of conjugate algebraic numbers: a random polynomial approach
+title: The distribution of conjugate algebraic numbers, a random polynomial approach
 speaker: Denis Koleda
 date: 2020-08-19 13:30:00 +0000
 categories: Diophantine approximation

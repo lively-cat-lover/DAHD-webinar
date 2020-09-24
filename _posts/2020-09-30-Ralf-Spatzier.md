@@ -3,7 +3,7 @@ layout: post
 title: Hyperbolic Actions of Higher Rank Abelian Groups
 speaker: Ralf Spatzier
 speaker-page: http://www.math.lsa.umich.edu/~spatzier/
-date: 2020-09-23 13:30:00 +0000
+date: 2020-09-30 13:30:00 +0000
 categories: Diophantine approximation
 ---
 

@@ -12,3 +12,5 @@ counting such points in a wide class of regions of Euclidean space (as the param
 heights grows to infinity). We explain connection of this formula to random polynomials 
 with i.i.d. coefficients. We also discuss some corollaries and applications of the formula. 
 The talk is based on a joint work with F. Götze and D. Zaporozhets.
+
+[Video Link](https://drive.google.com/file/d/1QDE-0LLj5svaD_2cRE4rlPfnUYdCsLLo/edit)

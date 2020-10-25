@@ -2,7 +2,7 @@
 layout: post
 title: Simultaneous Diophantine approximation on manifolds by algebraic numbers
 speaker: Alessandro Pezzoni
-date: 2020-10-28 13:30:00 +0000
+date: 2020-10-28 14:30:00 +0000
 categories: Diophantine approximation
 ---
 

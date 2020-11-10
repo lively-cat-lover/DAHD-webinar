@@ -3,7 +3,7 @@ layout: post
 title: Higher dimensional gap theorems in Diophantine approximation
 speaker: Alan Haynes
 speaker-page: https://www.math.uh.edu/~haynes/
-date: 2020-11-11 14:30:00 +0000
+date: 2020-11-11 13:30:00 +0000
 categories: Diophantine approximation
 ---
 
